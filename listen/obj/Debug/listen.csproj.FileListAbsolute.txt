@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listen\listen\bin\Debug\listen.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listen\listen\bin\Debug\listen.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listen\listen\bin\Debug\listen.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listen\listen\obj\Debug\listen.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listen\listen\obj\Debug\listen.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\listen\listen\obj\Debug\listen.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\fortuneTellerProject - Elle Wilson\listen\bin\Debug\listen.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\fortuneTellerProject - Elle Wilson\listen\obj\Debug\listen.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\fortuneTellerProject - Elle Wilson\listen\obj\Debug\listen.pdb
